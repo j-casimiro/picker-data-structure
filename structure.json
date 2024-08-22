@@ -96,28 +96,30 @@
       }
     ]
   },
-  "teamName": {
-    "font_name": "Combat Stencil NEW",
-    "text_value": "BAKERS",
-    "position": { "x": 123.321, "y": 2312.32 },
-    "scale": 123
-  },
-  "frontNumber": {
-    "font_name": "Combat Stencil NEW",
-    "text_value": "23",
-    "position": { "x": 123.321, "y": 2312.32 },
-    "scale": 123
-  },
-  "additionalFrontTextInfo": {
-    "font_name": "Combat Stencil NEW",
-    "text_value": "23",
-    "position": { "x": 123.321, "y": 2312.32 },
-    "scale": 123
-  },
+  "uniform_information": [
+    {
+      "font_name": "Combat Stencil NEW",
+      "text_value": "BAKERS",
+      "position": { "x": 123.321, "y": 2312.32 },
+      "scale": 123
+    },
+    {
+      "font_name": "Combat Stencil NEW",
+      "text_value": "23",
+      "position": { "x": 123.321, "y": 2312.32 },
+      "scale": 123
+    },
+    {
+      "font_name": "Combat Stencil NEW",
+      "text_value": "Panters",
+      "position": { "x": 123.321, "y": 2312.32 },
+      "scale": 123
+    }
+  ],
   "brand_logo": {
     "link": "https://s3.us-west-2.amazonaws.com/qx7/uploaded_files/master_trims/20230803140846/pupJTi4WMr.png"
   },
-  "canvasSize": {
+  "canvas_size": {
     "width": 250,
     "height": 450
   }
