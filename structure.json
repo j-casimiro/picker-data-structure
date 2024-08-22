@@ -1,0 +1,124 @@
+{
+  "id": 353,
+  "uniform_type": "jersey",
+  "themeColorSettings": [
+    {
+      "code": "B",
+      "default_color": "Black",
+      "parts": ["back_panel", "front_body", "arm_cuff"]
+    },
+    {
+      "code": "R",
+      "default_color": "Red",
+      "parts": ["collar", "stripe_1", "stripe_3", "piping_2"]
+    },
+    {
+      "code": "W",
+      "default_color": "White",
+      "parts": ["stripe_2", "piping_1"]
+    }
+  ],
+  "uniform": {
+    "front": [
+      {
+        "name": "stripe_1",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/php5fPhCP.png"
+      },
+      {
+        "name": "piping_2",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpCt2bm7.png"
+      },
+      {
+        "name": "arm_cuff",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpWfbj0X.png"
+      },
+      {
+        "name": "piping_1",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpbRavkn.png"
+      },
+      {
+        "name": "front_body",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpHYIxM6.png"
+      },
+      {
+        "name": "back_panel",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/php8qJb4l.png"
+      },
+      {
+        "name": "collar",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/php6vpjhs.png"
+      },
+      {
+        "name": "shadows",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpHpq74z.png"
+      },
+      {
+        "name": "highlights",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpQgxbTp.png"
+      }
+    ],
+    "left": [
+      {
+        "name": "stripe_1",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/php5fPhCP.png"
+      },
+      {
+        "name": "piping_2",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpCt2bm7.png"
+      },
+      {
+        "name": "arm_cuff",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpWfbj0X.png"
+      },
+      {
+        "name": "piping_1",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpbRavkn.png"
+      },
+      {
+        "name": "front_body",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpHYIxM6.png"
+      },
+      {
+        "name": "back_panel",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/php8qJb4l.png"
+      },
+      {
+        "name": "collar",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/php6vpjhs.png"
+      },
+      {
+        "name": "shadows",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpHpq74z.png"
+      },
+      {
+        "name": "highlights",
+        "link": "https://s3.us-west-2.amazonaws.com/uniformbuilder/materials/production/phpQgxbTp.png"
+      }
+    ]
+  },
+  "teamName": {
+    "font_name": "Combat Stencil NEW",
+    "text_value": "BAKERS",
+    "position": { "x": 123.321, "y": 2312.32 },
+    "scale": 123
+  },
+  "frontNumber": {
+    "font_name": "Combat Stencil NEW",
+    "text_value": "23",
+    "position": { "x": 123.321, "y": 2312.32 },
+    "scale": 123
+  },
+  "additionalFrontTextInfo": {
+    "font_name": "Combat Stencil NEW",
+    "text_value": "23",
+    "position": { "x": 123.321, "y": 2312.32 },
+    "scale": 123
+  },
+  "brand_logo": {
+    "link": "https://s3.us-west-2.amazonaws.com/qx7/uploaded_files/master_trims/20230803140846/pupJTi4WMr.png"
+  },
+  "canvasSize": {
+    "width": 250,
+    "height": 450
+  }
+}
