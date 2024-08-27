@@ -123,18 +123,21 @@
     {
       "font_name": "Combat Stencil NEW",
       "text_value": "BAKERS",
+      "text_shape": "straight",
       "position": { "x": 123.321, "y": 2312.32 },
       "scale": 123
     },
     {
       "font_name": "Combat Stencil NEW",
       "text_value": "23",
+      "text_shape": "straight",
       "position": { "x": 123.321, "y": 2312.32 },
       "scale": 123
     },
     {
       "font_name": "Combat Stencil NEW",
       "text_value": "Panters",
+      "text_shape": "straight",
       "position": { "x": 123.321, "y": 2312.32 },
       "scale": 123
     }
