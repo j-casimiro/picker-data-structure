@@ -148,5 +148,9 @@
   "canvas_size": {
     "width": 250,
     "height": 450
-  }
+  },
+  "body_part_color_groups": "",
+  "default_applications": "",
+  "default_style_category": "",
+  "brand_trims": ""
 }
