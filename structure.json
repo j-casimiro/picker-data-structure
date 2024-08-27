@@ -1,6 +1,29 @@
 {
   "id": 353,
   "uniform_type": "jersey",
+  "brand_style_name": "SAMPLE",
+  "product_name": "sample product name",
+  "price_item": "SAMPLECODEFORITEM123",
+  "estimated_shipping_date": "08-27-2024",
+  "pricing": {
+    "msrp": {
+      "Youth": 53.33,
+      "Adult": 55.56,
+      "lowest_price": 53.33
+    }
+  },
+  "genders": [
+    {
+      "id": 1,
+      "gender": "Women",
+      "gender_category": "Adult"
+    },
+    {
+      "id": 2,
+      "gender": "Girls",
+      "gender_category": "Youth"
+    }
+  ],
   "themeColorSettings": [
     {
       "code": "B",
