@@ -3,6 +3,8 @@ const structure = {
   uniform_type: "jersey", // material.name
   material_type: "upper", // material.type
   brand_style_name: "SAMPLE",
+  front_thumbnail: "https://qx7.s3.us-west-2.amazonaws.com/uploaded_files/qx7/7b2db00316b47e533f6f7bd432781e0c.png",
+  left_thumbnail: "https://qx7.s3.us-west-2.amazonaws.com/uploaded_files/qx7/15d068f01446c9745767fea171accf5e.png",
   product_name: "sample product name",
   price_item: "SAMPLECODEFORITEM123",
   estimated_shipping_date: "08-27-2024",
